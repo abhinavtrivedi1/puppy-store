@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="generics.main" target="1.8" />
+      <module name="generics.test" target="1.8" />
+      <module name="IdeaProjects.puppy-store.main" target="11" />
+      <module name="IdeaProjects.puppy-store.puppy-fun-app.main" target="11" />
+      <module name="IdeaProjects.puppy-store.puppy-fun-app.test" target="11" />
+      <module name="IdeaProjects.puppy-store.test" target="11" />
+      <module name="puppy-store.main" target="11" />
+      <module name="puppy-store.practice.main" target="11" />
+      <module name="puppy-store.practice.test" target="11" />
+      <module name="puppy-store.puppy-fun-app.main" target="11" />
+      <module name="puppy-store.puppy-fun-app.test" target="11" />
+      <module name="puppy-store.test" target="11" />
+      <module name="ronuabhinav.IdeaProjects.puppy-store.main" target="11" />
+      <module name="ronuabhinav.IdeaProjects.puppy-store.puppy-fun-app.main" target="11" />
+      <module name="ronuabhinav.IdeaProjects.puppy-store.puppy-fun-app.test" target="11" />
+      <module name="ronuabhinav.IdeaProjects.puppy-store.test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

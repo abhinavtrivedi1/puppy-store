@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/IdeaProjects.puppy-store.main.iml" filepath="$PROJECT_DIR$/.idea/modules/IdeaProjects.puppy-store.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/puppy-fun-app/IdeaProjects.puppy-store.puppy-fun-app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/puppy-fun-app/IdeaProjects.puppy-store.puppy-fun-app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/puppy-fun-app/IdeaProjects.puppy-store.puppy-fun-app.test.iml" filepath="$PROJECT_DIR$/.idea/modules/puppy-fun-app/IdeaProjects.puppy-store.puppy-fun-app.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/IdeaProjects.puppy-store.test.iml" filepath="$PROJECT_DIR$/.idea/modules/IdeaProjects.puppy-store.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/generics.iml" filepath="$PROJECT_DIR$/.idea/modules/generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/generics.main.iml" filepath="$PROJECT_DIR$/.idea/modules/generics.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/generics.test.iml" filepath="$PROJECT_DIR$/.idea/modules/generics.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/practice.iml" filepath="$PROJECT_DIR$/.idea/modules/practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/puppy-fun-app.iml" filepath="$PROJECT_DIR$/.idea/modules/puppy-fun-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/puppy-store.iml" filepath="$PROJECT_DIR$/.idea/puppy-store.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/puppy-store.main.iml" filepath="$PROJECT_DIR$/.idea/modules/puppy-store.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/practice/puppy-store.practice.iml" filepath="$PROJECT_DIR$/.idea/modules/practice/puppy-store.practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/practice/puppy-store.practice.main.iml" filepath="$PROJECT_DIR$/.idea/modules/practice/puppy-store.practice.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/practice/puppy-store.practice.test.iml" filepath="$PROJECT_DIR$/.idea/modules/practice/puppy-store.practice.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/puppy-fun-app/puppy-store.puppy-fun-app.iml" filepath="$PROJECT_DIR$/.idea/modules/puppy-fun-app/puppy-store.puppy-fun-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/puppy-fun-app/puppy-store.puppy-fun-app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/puppy-fun-app/puppy-store.puppy-fun-app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/puppy-fun-app/puppy-store.puppy-fun-app.test.iml" filepath="$PROJECT_DIR$/.idea/modules/puppy-fun-app/puppy-store.puppy-fun-app.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/puppy-store.test.iml" filepath="$PROJECT_DIR$/.idea/modules/puppy-store.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ronuabhinav.IdeaProjects.puppy-store.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ronuabhinav.IdeaProjects.puppy-store.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/puppy-fun-app/ronuabhinav.IdeaProjects.puppy-store.puppy-fun-app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/puppy-fun-app/ronuabhinav.IdeaProjects.puppy-store.puppy-fun-app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/puppy-fun-app/ronuabhinav.IdeaProjects.puppy-store.puppy-fun-app.test.iml" filepath="$PROJECT_DIR$/.idea/modules/puppy-fun-app/ronuabhinav.IdeaProjects.puppy-store.puppy-fun-app.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ronuabhinav.IdeaProjects.puppy-store.test.iml" filepath="$PROJECT_DIR$/.idea/modules/ronuabhinav.IdeaProjects.puppy-store.test.iml" />
+    </modules>
+  </component>
+</project>
